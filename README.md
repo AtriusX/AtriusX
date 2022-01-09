@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white">
       <img src="https://img.shields.io/badge/Express.js-313131?style=for-the-badge&logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/JDA-994BDC?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+      <img src="https://img.shields.io/badge/Jetbrains_Compose-4285F4?style=for-the-badge&logo=jetbrains&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
