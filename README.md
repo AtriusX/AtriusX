@@ -11,7 +11,7 @@
 <details>
   <summary><b>Experience 📝</b></summary>
   
-  # What I've Worked With
+  ## What I've Worked With
   
   This is a shortlist of all the tools I've worked with over time!
   <div align="justify">
