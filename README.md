@@ -3,8 +3,8 @@
 Thank you for checking out my profile!
 
 <p align="center" style="float:left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=atriusx&bg_color=45,8052FF,5555FF&text_color=FFFFFF&title_color=21FFFF&icon_color=21FFFF&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=Github%20Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atriusx&layout=compact&bg_color=45,D82C20,FF5555&text_color=FFFFFF&title_color=FFF&icon_color=21FFFF&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=Language%20Breakdown&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atriusx&bg_color=45,8052FF,5555FF&text_color=FFFFFF&title_color=21FFFF&icon_color=21FFFF&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=Github%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atriusx&layout=compact&bg_color=45,D82C20,FF5555&text_color=FFFFFF&title_color=FFF&icon_color=21FFFF&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=Language%20Breakdown&langs_count=8" />
 </p>
 <details>
   <summary><b>Experience 📝</b></summary>
