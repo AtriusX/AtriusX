@@ -1,6 +1,8 @@
-# Hello! 👋🏼
 
-##### Thank you for checking out my profile!
+
+<div align="center">
+  <h3>Hello! 👋🏼 Thank you for checking out my profile!</h3>
+</div>
 
 <p align="center" style="float:left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atriusx&bg_color=45,8052FF,5555FF&text_color=FFFFFF&title_color=21FFFF&icon_color=21FFFF&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=Github%20Stats" />
