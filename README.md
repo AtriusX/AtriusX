@@ -3,6 +3,7 @@
   <h1>
     <img src="https://img.shields.io/badge/Support_Me-$-9900FF?style=for-the-badge&logo=paypal&logoColor=white&link=https://paypal.me/atrius">
     <img src="https://img.shields.io/badge/Email_Me-xAtrius@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:xAtrius@outlook.com">
+    <img src="https://img.shields.io/github/followers/AtriusX?color=745df0&label=Follow%20Me&logo=github&style=for-the-badge">
   </h1>
 </div>
 <b>
