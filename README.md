@@ -9,7 +9,7 @@
 <b>
   💼 &nbsp;Currently looking for work
   <br />
-  💡 &nbsp;&nbsp;Hobbiest programmer with JVM & JS experience
+  💡 &nbsp;&nbsp;Hobbyist programmer with JVM & JS experience
   <br />
   🔎 &nbsp;Looking for projects to contribute to
   <br />
