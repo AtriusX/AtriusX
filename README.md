@@ -68,6 +68,7 @@
       <img src="https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
       <img src="https://img.shields.io/badge/Graph_QL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </div>
 </details>
 <details>
