@@ -3,7 +3,7 @@
   <h1>
     <a href="https://paypal.me/atrius"><img src="https://img.shields.io/badge/Support_Me-$-9900FF?style=for-the-badge&logo=paypal&logoColor=white"></a>
     <a href="mailto:xAtrius@outlook.com"><img src="https://img.shields.io/badge/Email_Me-xAtrius@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <img src="https://img.shields.io/github/followers/AtriusX?color=745df0&logo=github&style=for-the-badge">
+    <a href="#"><img src="https://img.shields.io/github/followers/AtriusX?color=745df0&logo=github&style=for-the-badge"></a>
   </h1>
 </div>
 <b>
