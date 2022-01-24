@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/Mikro_ORM-166788?style=for-the-badge&logo=mikroorm&logoColor=white">
     <img src="https://img.shields.io/badge/JDA-994BDC?style=for-the-badge">
     <img src="https://img.shields.io/badge/Jetbrains_Compose-4285F4?style=for-the-badge&logo=jetbrains&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -64,7 +65,6 @@
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
