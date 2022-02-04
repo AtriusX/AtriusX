@@ -71,6 +71,7 @@
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white">
+    <img src="https://img.shields.io/badge/Framer_Motion-7700FF?style=for-the-badge&logo=framer&logoColor=white">
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
     <img src="https://img.shields.io/badge/Github_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white">
     <img src="https://img.shields.io/badge/Circle_CI-343434?style=for-the-badge&logo=circleci&logoColor=white">
@@ -80,6 +81,7 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/Graph_QL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Framer-7700FF?style=for-the-badge&logo=framer&logoColor=white">
   </div>
 </details>
 <details>
@@ -96,6 +98,7 @@
   <div align="justify">
     <a href="https://github.com/AtriusX/DungeonKit"><img src="https://img.shields.io/badge/DungeonKit-7F52FF?style=for-the-badge&url=https://github.com/AtriusX/DungeonKit/" /></a>
     <a href="https://github.com/AtriusX/Duelingo"><img src="https://img.shields.io/badge/Duelingo-58CC02?style=for-the-badge&url=https://github.com/AtriusX/Duelingo/" /></a>
+    <a href="https://github.com/AtriusX/Rest-Calculator"><img src="https://img.shields.io/badge/Rest_Calculator-6DB33F?style=for-the-badge&url=https://github.com/AtriusX/Rest-Calculator/" /></a>
   </div>
 </details>
 
