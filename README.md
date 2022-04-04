@@ -7,9 +7,7 @@
   </h1>
 </div>
 <b>
-  💼 &nbsp;Currently looking for work
-  <br />
-  💡 &nbsp;&nbsp;Hobbyist programmer with JVM & JS experience
+  💡 &nbsp;&nbsp;Programmer with JVM & JS experience
   <br />
   🔎 &nbsp;Looking for projects to contribute to
   <br />
