@@ -26,6 +26,9 @@
   <div align="justify">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotest-4dbf4d?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/MockK-FF00A1?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Arrow-35473F?&style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -36,8 +39,8 @@
     <img src="https://img.shields.io/badge/React-10DAFF?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-313131?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/Mikro_ORM-166788?style=for-the-badge&logo=mikroorm&logoColor=white">
-    <img src="https://img.shields.io/badge/JDA-994BDC?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Mikro_ORM-166788?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/JDA-994BDC?style=for-the-badge&logo=java">
     <img src="https://img.shields.io/badge/Jetbrains_Compose-4285F4?style=for-the-badge&logo=jetbrains&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -52,7 +55,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/Paper_MC-5555FF?style=for-the-badge&logo=papermc&logoColor=white">
+    <img src="https://img.shields.io/badge/Paper_MC-5555FF?style=for-the-badge&logo=java&logoColor=white">
   </div>
 
   ## Other Things I Want To Explore
