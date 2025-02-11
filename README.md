@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/Express.js-313131?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Mikro_ORM-166788?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/JDA-994BDC?style=for-the-badge&logo=java">
-    <img src="https://img.shields.io/badge/Jetbrains_Compose-4285F4?style=for-the-badge&logo=jetbrains&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -56,6 +55,7 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Paper_MC-5555FF?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   </div>
 
   ## Other Things I Want To Explore
@@ -65,14 +65,11 @@
     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white">
-    <img src="https://img.shields.io/badge/Framer_Motion-7700FF?style=for-the-badge&logo=framer&logoColor=white">
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
     <img src="https://img.shields.io/badge/Github_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white">
     <img src="https://img.shields.io/badge/Circle_CI-343434?style=for-the-badge&logo=circleci&logoColor=white">
@@ -82,7 +79,7 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/Graph_QL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Framer-7700FF?style=for-the-badge&logo=framer&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   </div>
 </details>
 <details>
@@ -91,7 +88,7 @@
   ## Active Projects
 
   <div align="justify">  
-    <a href="https://github.com/AtriusX/Waystones"><img src="https://img.shields.io/badge/Waystones-8934eb?style=for-the-badge&url=https://github.com/AtriusX/Waystones/" /></a>
+    None at this time!
   </div>
   
   ## Inactive Projects
@@ -100,6 +97,7 @@
     <a href="https://github.com/AtriusX/DungeonKit"><img src="https://img.shields.io/badge/DungeonKit-7F52FF?style=for-the-badge&url=https://github.com/AtriusX/DungeonKit/" /></a>
     <a href="https://github.com/AtriusX/Duelingo"><img src="https://img.shields.io/badge/Duelingo-58CC02?style=for-the-badge&url=https://github.com/AtriusX/Duelingo/" /></a>
     <a href="https://github.com/AtriusX/Rest-Calculator"><img src="https://img.shields.io/badge/Rest_Calculator-6DB33F?style=for-the-badge&url=https://github.com/AtriusX/Rest-Calculator/" /></a>
+    <a href="https://github.com/AtriusX/Waystones"><img src="https://img.shields.io/badge/Waystones-8934eb?style=for-the-badge&url=https://github.com/AtriusX/Waystones/" /></a>
   </div>
 </details>
 
